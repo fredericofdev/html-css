@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body{
+    background-image: linear-gradient(to right, rgb(204, 0, 0), rgb(0, 0, 0));
+    color: black;
+
+}
+
+main{
+    background-color: white;
+    margin: 100px;
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 10px 10px 20px rgb(51, 1, 1);
+    text-align: center;
+}
+
+h1{
+    font-family: Bebas Neue;
+    font-size: 4em;
+    color: red;
+    font-weight: lighter;
+    text-align: center;
+
+
+}
+
+h2{
+    text-align: center;
+
+
+}
+
+p{
+    font-size: 1em;
+    text-align: left;
+
+
+}
+
+
+

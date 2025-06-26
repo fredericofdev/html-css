@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+    *{
+        font-family: Arial, Helvetica, sans-serif; /*(O asterisco significa características gerais)*/
+
+    }
+
+    body{
+
+        background-image: linear-gradient(to right, #848585, #182240); /*(Backgroung-image é para adicionar degradê)*/
+        text-align: center;
+
+    }
+
+    main{
+
+        background-color: white;
+        border-radius: 10px; /*(Border-radius é o raio da borda da caixa)*/
+        box-shadow: 10px 10px 50px #121a30; /*(box shadow é a sombra da caixa)*/
+        width: 600px;
+        padding: 10px; /*(Padding é o preenchimento da caixa.)*/
+        margin: auto; /*(A tag margin define o espaço em branco que existe fora das bordas de um elemento.)*/
+    }
+        
+
+    h1{
+        color: #215d83;
+        text-align: center;
+        text-shadow: 2px 2px 3px black; /*(Para colocar sombra no texto)*/
+
+    }
+    
